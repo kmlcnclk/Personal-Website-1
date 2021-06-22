@@ -22,7 +22,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           property="og:url"
-          content="https://cristianoronaldo7.vercel.app"
+          content="https://cristiano-ronaldo-7.vercel.app"
         />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Cristiano Ronaldo" />
@@ -30,7 +30,7 @@ export default function Home() {
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:url"
-          content="https://cristianoronaldo7.vercel.app"
+          content="https://cristiano-ronaldo-7.vercel.app"
         />
         <meta name="twitter:title" content="Cristiano Ronaldo" />
         <meta name="twitter:description" content="Cristiano Ronaldo" />
