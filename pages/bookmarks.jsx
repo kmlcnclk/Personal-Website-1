@@ -67,12 +67,7 @@ function Bookmarks({ dataBookmarks: data, dates }) {
           <Box mt="14">
             {dates.map((date, index) => (
               <div key={index}>
-                <Heading
-                  m={4}
-                  size="md"
-                  bgGradient={['linear(to-b, white, gray.300)']}
-                  bgClip="text"
-                >
+                <Heading m={4} size="md">
                   {date.week}. Week, {date.year}
                 </Heading>
                 <div className={`text-center ${styles1.mainData}`}>
